@@ -8,7 +8,7 @@ files:
   - package.json
 publish:
   provider: github
-  owner: lukadfagundes
+  owner: strawhatluka
   repo: hytale-server-manager
 nsis:
   oneClick: false

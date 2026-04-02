@@ -207,7 +207,7 @@ jobs:
           ${{ needs.extract-notes.outputs.notes }}
 
           ---
-          [Full Changelog](https://github.com/lukadfagundes/hytale-server-manager/blob/main/CHANGELOG.md)
+          [Full Changelog](https://github.com/strawhatluka/hytale-server-manager/blob/main/CHANGELOG.md)
           NOTES_EOF
 
           gh release create "$version" \

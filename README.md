@@ -28,7 +28,7 @@ A desktop application for managing a Hytale dedicated game server. Monitor serve
 
 ```bash
 # Clone the repository
-git clone https://github.com/lukadfagundes/hytale-server-manager.git
+git clone https://github.com/strawhatluka/hytale-server-manager.git
 cd hytale-server-manager
 
 # Install dependencies (root + app/)

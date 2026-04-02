@@ -47,7 +47,7 @@ extraFiles:
     to: disabled-mods
 publish:
   provider: github
-  owner: lukadfagundes
+  owner: strawhatluka
   repo: hytale-server
 nsis:
   oneClick: false
@@ -147,7 +147,7 @@ The updater checks the GitHub repository defined in `electron-builder.yml`:
 ```yaml
 publish:
   provider: github
-  owner: lukadfagundes
+  owner: strawhatluka
   repo: hytale-server
 ```
 

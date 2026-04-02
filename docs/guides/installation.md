@@ -14,7 +14,7 @@ This guide covers downloading, installing, and running the Hytale Server Manager
 
 ## Downloading
 
-Download the latest release from the [GitHub Releases](https://github.com/lukadfagundes/hytale-server-manager/releases) page. Choose the installer that matches your operating system:
+Download the latest release from the [GitHub Releases](https://github.com/strawhatluka/hytale-server-manager/releases) page. Choose the installer that matches your operating system:
 
 ### Windows
 
